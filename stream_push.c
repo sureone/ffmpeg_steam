@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2001 Fabrice Bellard
+ * Copyright (c) 2018 xiaowang yang 
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -20,12 +20,6 @@
  * THE SOFTWARE.
  */
 
-/**
- * @file
- * video decoding with libavcodec API example
- *
- * @example decode_video.c
- */
 
 #include <stdio.h>
 #include <stdlib.h>
